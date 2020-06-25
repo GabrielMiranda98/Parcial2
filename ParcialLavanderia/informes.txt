@@ -1,0 +1,7 @@
+
+Informe de ventas
+Cantidad de unidades vendidas totales: 38
+-Cantidad de unidades con precio mayor a 100: 26
+-Cantidad de unidades con precio mayor a 200: 6
+-Cantidad de DESCRIPCION vendidos: 1
+*************************
