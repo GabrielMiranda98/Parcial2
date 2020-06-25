@@ -4,7 +4,7 @@ id,articulo,medida,precio,rubroId
 3,Detergente T. Magistral,1 lts,170,2
 4,Limpiador cremoso VALENTINA T. Cif,1 lts,140,2
 5,Antigrasa VALESCU,1 lts,130,2
-6,Antihongo de Ba駉 VALESCU,1 lts,119,2
+6,Antihongo de Ba帽o VALESCU,1 lts,119,2
 7,Desodorante NIVEA MEN,1 u,120,3
 8,Desodorante REXONA,1 u,125,3
 9,Desodorante DOVE roll,50 grs,1145,3
@@ -20,22 +20,22 @@ id,articulo,medida,precio,rubroId
 19,Bactericida de Piso T. Lisoform,5 lts,180,2
 20,Desengrasante Industrial MARY,1 lts,160,2
 21,Limpiavidrios VALESCU,1 lts,100,2
-22,Jab髇 liquido p/manos Dove,250 ml,110,3
-23,Jab髇 liquido p/manos Dove,1 lts,130,3
+22,Jab贸n liquido p/manos Dove,250 ml,110,3
+23,Jab贸n liquido p/manos Dove,1 lts,130,3
 24,Gel de ducha VALESCU,500 ml,125,3
-25,Jab髇 de tocador PROTEX,1 u,85,3
-26,Brillo mas tefl髇,250 ml,200,4
+25,Jab贸n de tocador PROTEX,1 u,85,3
+26,Brillo mas tefl贸n,250 ml,200,4
 27,Rejilla auto doble,1 u,110,4
 28,Agua destilada,5 lts,110,4
 29,Liquido refrigerante,5 lts,480,4
 30,Perfume para auto,1 lts,310,4
 31,Suavizante T.Confort/Vivere/Woolite,1 lts,55,1
 32,Suavizante T.Confort/Vivere/Woolite,5 lts,220,1
-33,Jab髇 L韖uido T.Ariel,1 lts,95,1
-34,Jab髇 L韖uido T.Ariel,5 lts,390,1
+33,Jab贸n L铆quido T.Ariel,1 lts,95,1
+34,Jab贸n L铆quido T.Ariel,5 lts,390,1
 35,Lavandina R/Blanca,1 lts,90,1
-36,Jab髇 de tocador Nivea,1 u,60,3
-37,Jab髇 de tocador Rexona,3 u,140,3
+36,Jab贸n de tocador Nivea,1 u,60,3
+37,Jab贸n de tocador Rexona,3 u,140,3
 38,Crema dental COLGATE,70 grs,75,3
 39,Crema dental COLGATE HERBAL,140 grs,160,3
 40,Cepillo de dientes COLGATE,2 u,90,3
